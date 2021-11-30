@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-      Projeto de gerenciamento de funcionários utilizando Spring Boot e Angular como front-end
+      Projeto de gerenciamento de funcionários utilizando Spring Boot como back-end, Angular como front-end e server MySQL na nuvem.
 </h3>
 
 ![url-shorterner-thumbnail](https://github.com/lucaszacharias/employee-management-system/blob/main/thumbnail.png)
